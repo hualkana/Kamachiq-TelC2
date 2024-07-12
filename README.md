@@ -1,7 +1,7 @@
 # Kamachiq TELEC2
 
-
-
+Video demostrativo
+https://www.youtube.com/watch?v=q4ybrtk3uzs
 
 ## C2 en Telegram: ¡Cómo los Hackers Controlan Tu PC y Cómo Protegerte!
 
